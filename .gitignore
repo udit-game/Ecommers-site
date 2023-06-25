@@ -1,0 +1,3 @@
+node_modules/   # Ignore the entire "node_modules" directory
+*.log           # Ignore all files with the ".log" extension
+config.js       # Ignore a specific file named "config.js"
